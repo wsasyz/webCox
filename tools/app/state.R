@@ -38,7 +38,7 @@ output$state <- renderUI({
       ),
       wellPanel(
         HTML("<label>Reset to initial app state:</label>"),
-        HTML("<a class='btn action-button shiny-bound-input' id='resetState' type='button' href='/'>Reset</a>")
+        HTML("<a class='btn action-button shiny-bound-input' id='resetState' type='button' href='/webcox/'>Reset</a>")
       ),
       wellPanel(
         HTML("<label>Quit app:</label>"),
