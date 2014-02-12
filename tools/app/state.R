@@ -42,7 +42,7 @@ output$state <- renderUI({
       ),
       wellPanel(
         HTML("<label>Quit app:</label>"),
-        actionButton('quitApp', 'Quit')
+        HTML('<a style="font-size:16px; color:#31a1ff;" href="__logout__">Logout</a>')
       ),
       helpModal('State','stateHelp',inclMD("tools/help/state.md"))
     ),
