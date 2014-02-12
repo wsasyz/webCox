@@ -1,6 +1,4 @@
- 
- 
- ### WebCox a privacy-preserving survival analysis tool using R and Shiny
+### WebCox a privacy-preserving survival analysis tool using R and Shiny
 
 Version 2014.02.11. For version information, please visit <a href="https://privacy.shuangwang.org/webcox/version.html" target="_parent">here</a>.
 
